@@ -11,7 +11,7 @@ Bit-skewed (biased) distributions
 The objective is to examine how entropy reduction influences observed collision-time scaling.
 
 Repository Structure:
-collision_sim/
+collision_sim
  |
  |> main.py
  |> config.py
