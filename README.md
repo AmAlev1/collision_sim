@@ -12,15 +12,15 @@ The objective is to examine how entropy reduction influences observed collision-
 
 Repository Structure:
 collision_sim/
-|
-|> main.py
-|> config.py
-|>  hash_engine.py
-|>  input_models.py
-|>  collision_detector.py
-|>  experiment_runner.py
-|>  analysis.py
-|>  plotting.py
+ |
+ |> main.py
+ |> config.py
+ |>  hash_engine.py
+ |>  input_models.py
+ |>  collision_detector.py
+ |>  experiment_runner.py
+ |>  analysis.py
+ |>  plotting.py
 
 Requirements:
 Python 3.9+
